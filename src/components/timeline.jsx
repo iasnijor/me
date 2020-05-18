@@ -15,14 +15,28 @@ export default class Timeline extends Component {
             <div className="row">
               <div className="col-md-12">
                 <div className="timeline-centered">
+                <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-3">
+                        <i className="icon-code" />
+                      </div>
+                     
+                      <div className="timeline-label">
+                        <h2>Technology and Innovation Intern at PNC Bank<span> June 2020- July 2020</span></h2>
+                        <p>I will be  working as a Technology and Innovation intern at PNC bank.</p>
+                      </div>
+                    </div>
+                  </article>
+                  
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-3">
-                        <i className="icon-pen2" />
+                        <i className="icon-code" />
                       </div>
+                     
                       <div className="timeline-label">
-                        <h2>Internship at Juniper <span>2019-present</span></h2>
-                        <p>I recently have joined the Juniper Networs as a Software Developer-Intern in the DevOps team. My major part of the work has been into the field of creating sustainable and flexible CI/CD (Continuous Integration & Continuous Development) pipelines which enables developers at Juniper to do rapid development. I am also exploring the role of container technology like Docker and container-orchrastation technologies like K8s, Swarm to create industry standard production environments.</p>
+                        <h2>Research Assitant at Dr. Alina Lazar<span> 2018-Present</span></h2>
+                        <p>I am a Research Assitant to Dr.Alina Lazar, professor at Youngstown State University.Our research is focused on Classification Method, a brach of Machine Learning.We have been applying different set of Classification Rules on Categorical Demographic data to predict Transporation Modes</p>
                       </div>
                     </div>
                   </article>
@@ -32,8 +46,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Undergraduation at DAIICT<span>2015-2019</span></h2>
-                        <p>I am pursuing my under-graduation studies with major in I.C.T.(Information & Communication Technology). I have taken courses like DSA, OOPs, Computer Networks, IOT, Web-Data Management over the years and have better understanding of these subjects.I have also been part of S.B.G.(Student Body Govenance) scince my first year of college.</p>
+                        <h2>Youngstown State University <span>2017-Presnt</span></h2>
+                        <p>I decided to pursue my undergrad at Youngstown State University,Youngstown, Ohio. I am majoring in Computer Science with a minor in Mathematics. My areas of interest are Software Developmentr and Machine Learning. Currently I am a Senior at YSU and completed courses such as Operating System, Software engineering, Computer Orgnization, Advance Object Oriented Programming, Data structures and Objects, Algorithms, Theory of Finite Automata and Server Side Programming, etc.</p>
                       </div>
                     </div>
                   </article>
@@ -43,8 +57,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Primary and Higher Education <span>2003-2015</span></h2>
-                        <p>I have completed my higher secondary education with major subjects as Physics,Chemistry & Maths with 91 merit. During my time at school, I have developed interest in solving complex problems of the fundamental physics which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems.</p> 
+                        <h2>High School<span> 2003-2015</span></h2>
+                        <p>I pursued my high school education at Nepal from National Intregration College(NIC).My field of study was science where I studied physics, chemistry , mathematics and computer science.I have had intrest in programming since my early high school days and was keen to know about programming always.</p> 
                       </div>
                     </div>
                   </article>
