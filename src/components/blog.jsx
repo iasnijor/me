@@ -18,7 +18,6 @@ export default class Blog extends Component {
 						<a href="blog.html" className="blog-img"><img src="images/pic-1.jpg" className="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com" /></a>
 						<div className="desc">
 							
-							<h3><a href="blog.html"></a></h3>
 							<p>Niagra Falls</p>
 						</div>
 					</div>
@@ -28,7 +27,6 @@ export default class Blog extends Component {
 						<a href="blog.html" className="blog-img"><img src="images/pic-2.jpeg" className="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com" /></a>
 						<div className="desc">
 							
-							<h3><a href="blog.html"></a></h3>
 							<p>Mill Creek Park,Youngstown</p>
 						</div>
 					</div>
@@ -38,7 +36,6 @@ export default class Blog extends Component {
 						<a href="blog.html" className="blog-img"><img src="images/pic-3.jpg" className="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com" /></a>
 						<div className="desc">
 							
-							<h3><a href="blog.html"></a></h3>
 							<p>Lake Erie</p>
 						</div>
 					</div>
@@ -48,7 +45,6 @@ export default class Blog extends Component {
 						<a href="blog.html" className="blog-img"><img src="images/pic-4.jpg" className="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com" /></a>
 						<div className="desc">
 							<span><small>April 14, 2018 </small> | <small> Inspiration </small> | <small> <i className="icon-bubble3" /> 4</small></span>
-							<h3><a href="blog.html"></a></h3>
 							<p>Brooklyn Bridge</p>
 						</div>
 					</div>
@@ -58,7 +54,6 @@ export default class Blog extends Component {
 						<a href="blog.html" className="blog-img"><img src="images/pic-5.jpeg" className="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com" /></a>
 						<div className="desc">
 							
-							<h3><a href="blog.html"></a></h3>
 							<p>New Orleans</p>
 						</div>
 					</div>
@@ -68,7 +63,6 @@ export default class Blog extends Component {
 						<a href="blog.html" className="blog-img"><img src="images/pic-6.jpeg" className="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com" /></a>
 						<div className="desc">
 							{/*<span><small>April 14, 2018 </small> | <small> Inspiration </small> | <small> <i className="icon-bubble3" /> 4</small></span>*/}
-							<h3><a href="blog.html"></a></h3>
 							<p>Mill Creek at Winter</p>
 						</div>
 					</div>
