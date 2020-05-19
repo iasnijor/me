@@ -36,7 +36,7 @@ export default class Timeline extends Component {
                      
                       <div className="timeline-label">
                         <h2>Research Assitant at Dr. Alina Lazar<span> 2018-Present</span></h2>
-                        <p>I am a Research Assitant to Dr.Alina Lazar, professor at Youngstown State University.Our research is focused on Classification Method, a brach of Machine Learning.We have been applying different set of Classification Rules on Categorical Demographic data to predict Transporation Modes</p>
+                        <p>I am a Research Assitant to Dr.Alina Lazar, professor at Youngstown State University.Our research is focused on Classification Method, a branch of Machine Learning.We have been applying different set of Classification Rules on Categorical Demographic data to predict Transporation Modes</p>
                       </div>
                     </div>
                   </article>

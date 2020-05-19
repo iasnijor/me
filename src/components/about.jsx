@@ -63,7 +63,7 @@ export default class About extends Component {
                     <i className="icon-shopping-cart" />
                 </span>
                 <div className="desc">
-                    <h3>Shooping Website</h3>
+                    <h3>Shopping Website</h3>
                     <p>Built an online shopping site for my fathers rentals business using JSP, Servlers and JDBC</p>
                 </div>
                 </div>
