@@ -15,7 +15,7 @@ export default class Blog extends Component {
 				<div className="row">
 					<div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
 					<div className="blog-entry">
-						<a href="blog.html" className="blog-img"><img src="images/pic-1.jpg" className="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com" /></a>
+						<img src="images/pic-1.jpg" className="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com" />
 						<div className="desc">
 							
 							<p>Niagra Falls</p>
@@ -24,7 +24,7 @@ export default class Blog extends Component {
 					</div>
 					<div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInRight">
 					<div className="blog-entry">
-						<a href="blog.html" className="blog-img"><img src="images/pic-2.jpeg" className="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com" /></a>
+						<img src="images/pic-2.jpeg" className="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com" />
 						<div className="desc">
 							
 							<p>Mill Creek Park,Youngstown</p>
@@ -33,7 +33,7 @@ export default class Blog extends Component {
 					</div>
 					<div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
 					<div className="blog-entry">
-						<a href="blog.html" className="blog-img"><img src="images/pic-3.jpg" className="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com" /></a>
+						<img src="images/pic-3.jpg" className="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com" />
 						<div className="desc">
 							
 							<p>Lake Erie</p>
@@ -42,7 +42,7 @@ export default class Blog extends Component {
 					</div>
 					<div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
 					<div className="blog-entry">
-						<a href="blog.html" className="blog-img"><img src="images/pic-4.jpg" className="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com" /></a>
+						<img src="images/pic-4.jpg" className="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com" />
 						<div className="desc">
 							<span><small>April 14, 2018 </small> | <small> Inspiration </small> | <small> <i className="icon-bubble3" /> 4</small></span>
 							<p>Brooklyn Bridge</p>
@@ -51,7 +51,7 @@ export default class Blog extends Component {
 					</div>
 					<div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
 					<div className="blog-entry">
-						<a href="blog.html" className="blog-img"><img src="images/pic-5.jpeg" className="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com" /></a>
+						<img src="images/pic-5.jpeg" className="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com" />
 						<div className="desc">
 							
 							<p>New Orleans</p>
@@ -60,7 +60,7 @@ export default class Blog extends Component {
 					</div>
 					<div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
 					<div className="blog-entry">
-						<a href="blog.html" className="blog-img"><img src="images/pic-6.jpeg" className="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com" /></a>
+						<img src="images/pic-6.jpeg" className="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com" />
 						<div className="desc">
 							{/*<span><small>April 14, 2018 </small> | <small> Inspiration </small> | <small> <i className="icon-bubble3" /> 4</small></span>*/}
 							<p>Mill Creek at Winter</p>
