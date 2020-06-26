@@ -23,7 +23,7 @@ export default class Timeline extends Component {
                      
                       <div className="timeline-label">
                         <h2>Technology and Innovation Intern at PNC Bank<span> June 2020- July 2020</span></h2>
-                        <p>I will be  working as a Technology and Innovation intern at PNC bank.</p>
+                        <p>I am working as a Technology and Innovation intern at PNC bank.</p>
                       </div>
                     </div>
                   </article>
