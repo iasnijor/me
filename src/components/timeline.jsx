@@ -23,8 +23,8 @@ export default class Timeline extends Component {
                      
                       <div className="timeline-label">
                         <h2>Technology and Innovation Intern at PNC Bank<span> June 2020- July 2020</span></h2>
-                        <p>I am taksed with extracting the file and previewing thumbnail of the file inside the ag-grid layout. On top of that I am working with Elastic search
-                           for storing various data on the server through REST API calls such as POST, PUT and GET. I report daily to the production team using JIRA and Confluence as a managing and documenting platform..</p>
+                        <p>I was tasked with extracting the file and previewing thumbnail of the file inside the ag-grid layout. On top of that I was working with Elastic search
+                           for storing various data on the server through REST API calls such as POST, PUT and GET. I reported daily to the production team using JIRA and Confluence as a managing and documenting platform.</p>
                       </div>
                     </div>
                   </article>
