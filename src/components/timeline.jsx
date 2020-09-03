@@ -47,7 +47,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Youngstown State University <span>2017-Presnt</span></h2>
+                        <h2>Youngstown State University <span>2017-Present</span></h2>
                         <p>I decided to pursue my undergrad at Youngstown State University,Youngstown, Ohio. I am majoring in Computer Science with a minor in Mathematics. My areas of interest are Software Developmentr and Machine Learning. Currently I am a Senior at YSU and completed courses such as Operating System, Software engineering, Computer Orgnization, Advance Object Oriented Programming, Data structures and Objects, Algorithms, Theory of Finite Automata and Server Side Programming, etc.</p>
                       </div>
                     </div>
@@ -58,7 +58,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>High School<span> 2003-2015</span></h2>
+                        <h2>High School<span> 2013-2015</span></h2>
                         <p>I pursued my high school education at Nepal from National Intregration College(NIC).My field of study was science where I studied physics, chemistry , mathematics and computer science.I have had intrest in programming since my early high school days and was keen to know about programming always.</p> 
                       </div>
                     </div>
